@@ -1,0 +1,19 @@
+{
+  "startDelayMs": -3,
+  "impulseOffsetsMs": [
+    500,
+    826,
+    1038
+  ],
+  "impulseGains": [
+    1.0,
+    0.5,
+    0.25
+  ],
+  "periodMs": 2000,
+  "decayTauMs": 130,
+  "ampLight": 0.1,
+  "ampMed": 0.4,
+  "ampStrong": 0.75,
+  "debounceMs": 500
+}

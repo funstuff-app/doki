@@ -1,0 +1,28 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#FFF3F0"/>
+  <circle cx="48" cy="44" r="5" fill="#FFD9DA"/>
+  <circle cx="552" cy="60" r="7" fill="#FFD9DA"/>
+  <circle cx="76" cy="350" r="6" fill="#FFE3E4"/>
+  <circle cx="566" cy="330" r="5" fill="#FFE3E4"/>
+  <circle cx="300" cy="368" r="4" fill="#FFE3E4"/>
+  <text x="300" y="64" text-anchor="middle" font-family="Baloo 2" font-weight="600" font-size="30" fill="#E0383E">drop doki into applications!</text>
+  <path d="M278 96 L284 110 L298 112 L287 121 L291 135 L278 127 L265 135 L269 121 L258 112 L272 110 Z" fill="#FFC2C4"/>
+  <path d="M322 92 l3 8 8 1 -6 5 2 8 -7 -4 -7 4 2 -8 -6 -5 8 -1 Z" fill="#FFD9DA"/>
+  <circle cx="150" cy="190" r="78" fill="#FFE7E4"/>
+  <path d="M218 268 A 96 38 0 0 1 82 268" fill="none" stroke="#FF8E91" stroke-width="7" stroke-linecap="round"/>
+  <path d="M244 292 A 140 56 0 0 1 56 292" fill="none" stroke="#FFC2C4" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="450" cy="190" r="78" fill="#FFFFFF"/>
+  <circle cx="450" cy="190" r="78" fill="none" stroke="#FFC2C4" stroke-width="4" stroke-dasharray="1 11" stroke-linecap="round"/>
+  <path d="M252 184 Q300 142 348 184" fill="none" stroke="#FF5A5F" stroke-width="7" stroke-linecap="round" stroke-dasharray="0.5 16"/>
+  <path d="M340 162 L352 187 L325 184 Z" fill="#FF5A5F"/>
+  <text x="450" y="296" text-anchor="middle" font-family="Baloo 2" font-weight="600" font-size="17" fill="#F08A8D">new home</text>
+  <g transform="translate(537,357) rotate(8)">
+    <rect x="-30" y="-28" width="60" height="56" rx="15" fill="#FF5A5F"/>
+    <circle cx="-11" cy="-6" r="3.6" fill="#7A1518"/>
+    <circle cx="12" cy="-6" r="3.6" fill="#7A1518"/>
+    <path d="M-5 5 Q0.5 10 6 5" fill="none" stroke="#7A1518" stroke-width="2.4" stroke-linecap="round"/>
+    <ellipse cx="-20" cy="2" rx="4.4" ry="2.8" fill="#FF8E91"/>
+    <ellipse cx="21" cy="2" rx="4.4" ry="2.8" fill="#FF8E91"/>
+  </g>
+  <path d="M492 332 l2.6 6.6 6.6 2.6 -6.6 2.6 -2.6 6.6 -2.6 -6.6 -6.6 -2.6 6.6 -2.6 Z" fill="#FFB3B5"/>
+</svg>

@@ -1,0 +1,19 @@
+# Build artifacts
+.build/
+dist/
+
+# Code-signing keychain (contains the private key — never commit)
+*.keychain-db
+packaging/doki-sign.keychain-db
+
+# macOS
+.DS_Store
+
+# Scratch
+/tmp/
+
+# stray keychain temp files
+packaging/.fl*
+
+# Internal notes, not shipped
+notes/
